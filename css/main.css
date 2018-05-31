@@ -173,7 +173,7 @@ p:last-child {
 	
 /* PROFILE IMAGE */
 .profile-image {
-	max-height: 92px;
+	max-height: 256px;
 	}
 .profile-image.is-outside {
 	margin-top: -50%; margin-bottom: 0;
@@ -997,10 +997,10 @@ html a.social-link:hover:before {
 		}
 		
 	.profile-image {
-		max-height: 128px;
+		max-height: 256px;
 		}	
 	.profile-image.small {
-		max-height: 92px;
+		max-height: 128px;
 		}
 	.profile-image.big {
 		max-height: 192px;
