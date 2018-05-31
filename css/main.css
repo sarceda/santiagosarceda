@@ -173,7 +173,7 @@ p:last-child {
 	
 /* PROFILE IMAGE */
 .profile-image {
-	max-height: 256px;
+	max-height: 128px;
 	}
 .profile-image.is-outside {
 	margin-top: -50%; margin-bottom: 0;
