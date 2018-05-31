@@ -199,13 +199,13 @@ p:last-child {
 
 /* SOCIAL LINKS */
 .social-link {
-	display: inline-block; margin: 8px 2px 8px 0; text-decoration: none; user-select: none;
+	display: inline-block; margin: 8px 20px 8px 0; text-decoration: none; user-select: none;
 	}
 .social-link:active {
 	transform: scale(0.8);
 	}
 .social-link:before {
-	display: inline-block; padding: 0; text-align: center; font-size: 14px; font-family: "fontello"; width: 32px; line-height: 32px; color: #555; border: 1px solid #eee; border-radius: 50%; text-decoration: none; transition: all 0.3s;
+	display: inline-block; padding: 0; text-align: center; font-size: 28px; font-family: "fontello"; width: 64px; line-height: 64px; color: #555; border: 1px solid #eee; border-radius: 50%; text-decoration: none; transition: all 0.3s;
 	}
 html a.social-link:hover:before {
 	color: #fff; background: #444; border-color: transparent;
